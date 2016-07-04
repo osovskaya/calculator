@@ -8,18 +8,9 @@ class Calculator
     private $logger;
     const LOG_FILE = 'log.txt';
 
-    public function setLogger()
+    public function setLogger($logger)
     {
-        $this->logger = new class {
-
-            public function log($fileName, $operator, $result, $operand1, $operand2 = '')
-            {
-                $fp = fopen($fileName, 'a+');
-                fwrite($fp, date('r').' '.$operator.' '.$operand1.' and '.$operand2.', result '.$result."\n");
-                fclose($fp);
-                return true;
-            }
-        };
+        $this->logger = $logger;
     }
 
     public function add(int $number1, int $number2): int
