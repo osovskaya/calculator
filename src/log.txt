@@ -1,0 +1,16 @@
+Mon, 04 Jul 2016 23:33:19 +0300 Calculator::add 3 and 2, result 5
+Mon, 04 Jul 2016 23:33:19 +0300 Calculator::subtract 3 and 2, result 1
+Mon, 04 Jul 2016 23:33:19 +0300 Calculator::multiple 3 and 2, result 6
+Mon, 04 Jul 2016 23:33:19 +0300 Calculator::divide 3 and 2, result 1
+Mon, 04 Jul 2016 23:33:19 +0300 Calculator::powerOfTwo 2 and , result 4
+Mon, 04 Jul 2016 23:33:19 +0300 Calculator::add 8 and 2, result 10
+Mon, 04 Jul 2016 23:33:19 +0300 Calculator::subtract 3 and 2, result 1
+Mon, 04 Jul 2016 23:33:19 +0300 Calculator::multiple 1 and 2, result 2
+Mon, 04 Jul 2016 23:37:55 +0300 Calculator::add 3 and 2, result 5
+Mon, 04 Jul 2016 23:37:55 +0300 Calculator::subtract 3 and 2, result 1
+Mon, 04 Jul 2016 23:37:55 +0300 Calculator::multiple 3 and 2, result 6
+Mon, 04 Jul 2016 23:37:55 +0300 Calculator::divide 3 and 2, result 1
+Mon, 04 Jul 2016 23:37:55 +0300 Calculator::powerOfTwo 2 and , result 4
+Mon, 04 Jul 2016 23:37:55 +0300 Calculator::add 8 and 2, result 10
+Mon, 04 Jul 2016 23:37:55 +0300 Calculator::subtract 3 and 2, result 1
+Mon, 04 Jul 2016 23:37:55 +0300 Calculator::multiple 1 and 2, result 2

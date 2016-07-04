@@ -1,0 +1,15 @@
+{
+    "description": "BSA Academy 2016. PHP 7. What's new?",
+    "name": "osovskaya/bsa",
+    "type": "project",
+    "license": "none",
+    "support": {
+        "source": "https://github.com/osovskaya/bsa"
+    },
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
